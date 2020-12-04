@@ -22,7 +22,7 @@ In the above example, 2 passwords are valid. The middle password, `cdefg`, is no
 
 How many passwords are valid according to their policies?
 
-### Part 2 Solution
+### Part 1 Solution
 
 Your puzzle answer was `655`.
 

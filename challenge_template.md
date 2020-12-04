@@ -8,7 +8,7 @@ Solution code available in [day0.py](./day0.py).
 
 
 
-### Part 2 Solution
+### Part 1 Solution
 
 Your puzzle answer was `000`.
 

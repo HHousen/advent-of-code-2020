@@ -49,7 +49,7 @@ According to the above rules, your improved system would report `2` valid passpo
 
 Count the number of valid passports - those that have all required fields. Treat cid as optional. In your batch file, how many passports are valid?
 
-### Part 2 Solution
+### Part 1 Solution
 
 Your puzzle answer was `230`.
 
