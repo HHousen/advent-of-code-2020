@@ -1,4 +1,4 @@
-# Day 1: Report Repair
+# Day 1: Title
 
 Solution code available in [day0.py](./day0.py).
 
