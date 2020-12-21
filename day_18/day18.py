@@ -7,7 +7,6 @@ with open("puzzle_input.txt") as puzzle_input:
 # Only operators in input are multiply and add. In python, multiplication
 # has greater precedence than addition and subtraction. But addition and
 # subtraction have equal precedence and will be evaluated left-to-right.
-# 
 class new_int(int):
     def __sub__(self, x):
         # Cast self back to int so proper multiplication is applied.
