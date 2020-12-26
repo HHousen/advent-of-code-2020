@@ -1,3 +1,8 @@
+# The below is a brute force solution. Alternatively, here is an
+# explanation of mathematical method using discrete logarithms: https://github.com/mebeim/aoc/blob/master/2020/README.md#purely-mathematical-solution
+# Basically, this problem is the Diffie-Hellman key exchange algorithm,
+# so we can use the baby-step giant-step algorithm to solve it.
+
 with open("puzzle_input.txt") as puzzle_input:
     puzzle_input = [line.strip() for line in puzzle_input]
 
